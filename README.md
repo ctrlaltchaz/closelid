@@ -1,4 +1,4 @@
-![alt text](https://ctrlaltchaz.com/wp-content/uploads/2024/09/closelidicon.png)
+![alt text](https://ctrlaltchaz.com/wp-content/uploads/2024/09/closelidlogo.png)
 
 # CloseLid
 An easy macOS script application that allows you to close your macbook lid without the screen turning off. This can be useful for plugging in external monitors and wanting your lid to be closed whilst using it.
