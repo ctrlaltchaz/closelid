@@ -11,5 +11,5 @@ Disable Sleep disables the macbook from going into sleep mode, and prevents the 
 Enable Sleep makes it so your macbook goes into sleep mode, and the display turns off when you close the lid.
 
 # How do I use it?
-1.  Download the release file.
-2.  Open it on your macbook and enjoy :)
+1.  Download the release, and extract the zip.
+2.  Open the application on your macbook and enjoy!
